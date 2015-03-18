@@ -1,6 +1,6 @@
 # LiveCode (Revolution) stacks:
 
-None of these stacks have been updated recently, but feel free to use or adpat as you see fit. They have not been tested using recent versions of LiveCode, so may not all word as expected. As stacks are provided as is. Use at your own risk.
+None of these stacks have been updated recently, but feel free to use or adapt as you see fit. They have not been tested using recent versions of LiveCode, so may not all word as expected. As stacks are provided as is. Use at your own risk.
 
 ---
 
@@ -74,7 +74,7 @@ Allows direct editing of OS X .list files (Mac OS X only).
 
 **POP_library_demo**
 
-Stack with library for communicating with a POP server and a smaple stack showing hios to use this library.
+Stack with library for communicating with a POP server and a sample stack showing how to use this library.
 
 **ResourceCopier**
 
@@ -86,11 +86,11 @@ This is a stack that uses Rev's built-in compression routines to compress and ex
 
 **SerialTest**
 
-A stack that demonstrates serial communications, both sending and receiving. This will work on Mac or Windows. For Macs, you need an adapter that allows one of it's ports to be configured as a serial port. Any USB-serial adpater seems to work. The latest version allows you to set the termination characters for sending and receiving.
+A stack that demonstrates serial communications, both sending and receiving. This will work on Mac or Windows. For Macs, you need an adapter that allows one of it's ports to be configured as a serial port. Any USB-serial adapter seems to work. The latest version allows you to set the termination characters for sending and receiving.
 
 **SMTP_library_demo**
 
-Stack with library for communicating with an SMTP server and a smaple stack showing hios to use this library.
+Stack with library for communicating with an SMTP server and a sample stack showing how to use this library.
 
 **Speed**
 
