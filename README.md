@@ -1,6 +1,8 @@
 # LiveCode (Revolution) stacks:
 
-None of these stacks have been updated recently, but feel free to use or adapt as you see fit. They have not been tested using recent versions of LiveCode, so may not all word as expected. As stacks are provided as is. Use at your own risk.
+None of these stacks have been updated recently, but feel free to use or adapt as you see fit. They have not been tested using recent versions of LiveCode, so may not work as expected. As stacks are provided as is. Use at your own risk.
+
+To download a single stack, right-click on the file name and choose "Download Linked File" or something similar.
 
 ---
 
